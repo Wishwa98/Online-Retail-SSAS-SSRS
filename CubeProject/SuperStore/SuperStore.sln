@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1927
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SuperStore", "SuperStore\SuperStore.dwproj", "{467FBA0B-1FE8-43B9-9CCE-2F5E6A7E8F55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{467FBA0B-1FE8-43B9-9CCE-2F5E6A7E8F55}.Development|Default.ActiveCfg = Development
+		{467FBA0B-1FE8-43B9-9CCE-2F5E6A7E8F55}.Development|Default.Build.0 = Development
+		{467FBA0B-1FE8-43B9-9CCE-2F5E6A7E8F55}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E29E47C-E85E-4D7A-9859-19C8A2626CC0}
+	EndGlobalSection
+EndGlobal
